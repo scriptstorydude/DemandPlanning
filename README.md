@@ -20,7 +20,7 @@ This project focuses on building a predictive model to estimate item demand acro
 │   └── store_demand.py   <- Final notebook for the project.
 ├── reports            <- Folder containing the final reports/results of this project.
 │   │
-│   └── Report.pdf     <- Final analysis report in PDF.
+│   └── Report.md     <- Final analysis report in Markdown format.
 │   
 ├── src                <- Source for this project.
 │   │
