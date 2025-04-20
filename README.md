@@ -11,17 +11,23 @@ This project focuses on building a predictive model to estimate item demand acro
 
 ## 📁 Directory Structure
 
+```
+
 ├── LICENSE
-├── README.md              <- You are here!
-├── notebook             <- Jupyter notebooks for experimentation and analysis
-│   └── demand_plan.py    <- Final forecasting notebook
-├── output                <- Analysis reports and summaries
-│   └── Report.pdf         <- Final project report
-├── source                    <- Source code for data handling and model training
-│   ├── data               <- Raw and processed datasets
-│   └── model              <- Machine learning models
+├── README.md           <- README .
+├── notebooks           <- Folder containing the final reports/results of this project.
+│   │
+│   └── store_demand.py   <- Final notebook for the project.
+├── reports            <- Folder containing the final reports/results of this project.
+│   │
+│   └── Report.pdf     <- Final analysis report in PDF.
+│   
+├── src                <- Source for this project.
+│   │
+│   └── data           <- Datasets used and collected for this project.
+|   └── model          <- Model.
 
-
+```
 ## 📊 Dataset Summary
 
 The dataset includes transactional-level sales data from multiple stores and consists of:
